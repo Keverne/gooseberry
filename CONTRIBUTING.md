@@ -1,7 +1,8 @@
 # Contributing to Gooseberry
 
-The following document explains how Gooseberry works and lists some potential improvements (usually with an issue number attached). 
-Pick one that seems interesting to work on, or make an issue if you want something added to the list!
+The following document explains how Gooseberry works and lists some potential improvements (usually with an issue number attached). The [README](README.md) explains the motivation behind Gooseberry and a typical workflow.
+
+Pick an issue that seems interesting to work on, or make an issue if you want something added to the list!
 If you have any questions about contributing or need help with anything, my nick is ninjani on the [official](https://discord.gg/rust-lang) and [community](https://discord.gg/aVESxV8) Discord servers.
 Also, if you don't feel like contributing code but you're interested in the idea, another way to help is to just use Gooseberry and file feature requests (over [here](https://github.com/out-of-cheese-error/gooseberry/issues/11) or in a separate issue) and bug reports.
 
